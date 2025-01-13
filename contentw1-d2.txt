@@ -1,0 +1,78 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2820
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red255\green255\blue255;}
+{\*\expandedcolortbl;;\cssrgb\c100000\c100000\c100000;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs26 \cf0 \expnd0\expndtw0\kerning0
+Activities\
+\
+There are many planned activities at all the cliff sites. Some are scheduled daily, weekly, monthly and yearly. These activities are not however run by the state park and recreational department. They are operated and manage by private vendors but are partners with the state department. Therefore, for schedule inquiries or information, please contact them directly. For a list of activities, please refer to the table below:\
+\
+Activities at the Cliffs\
+\
+Activity\
+West Cliff\
+North Cliff\
+East Cliff\
+South Cliff\
+\
+Hiking\
+Kayak\
+Skydiving\
+Biking\
+Camping\
+\
+College Hikes\
+Western Kayak Meetup\
+Seacliff Diving\
+Bicycle for One\
+Youth Camp\
+\
+Family Fun\
+Not Available\
+Sky is the limit	\
+Not Available\
+Rent a Tent\
+\
+Treasure Trails\
+Youth Kayaking\
+Not Available\
+Bike Meetup Group\
+Campground Adventure\
+\
+Canyon Explorer\
+Kayak Down\
+Sky Diving for Beginners\
+Not Available\
+Sunset Camping\
+\
+\
+Contacting Us\
+\
+If you need more information about the Cliffs, Hours of Operations, Facilities or questions about this site, please contact us bu using one of the following:\
+\
+Phone:\
+(800)GCLIFFS\
+\
+Email:\
+info@greatcliffs.com\
+\
+Fill Out This Form:\
+\
+Contact Form\
+\
+Enter your full name\
+Enter your email\
+Enter your phone\
+How should we contact you?\
+Email\
+Phone\
+Which Cliff are you inquiring?\
+West Cliff\
+North Cliff\
+East Cliff\
+South Cliff\
+How did you hear about us:}
