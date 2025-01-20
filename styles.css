@@ -382,3 +382,50 @@ form .textbox, .radios, .selectmenu, .commentbox, .button {
     margin-bottom: 20px;
 }
 
+/*Cliff Photos - Cliff Page*/
+/* Centering Container */
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh; /* Full viewport height */
+}
+
+/* Photo Grid */
+.photo-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns */
+    gap: 30px; /* Spacing between images */
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+
+/* Photo Container */
+.photo-container {
+    display: flex;
+    flex-direction: column; /* Stacks the banner above the photo */
+    align-items: center;
+    overflow: hidden; /* Ensures elements don't overflow outside the container */
+    border-radius: 8px; /* Optional: Rounds corners of the entire container */
+}
+
+/* Title Banner */
+.title-banner {
+    width: 100%; /* Full width of the container */
+    background: #852b1b; /* Dark red background */
+    color: #fff; /* White text */
+    text-align: center;
+    padding: 8px 0; /* Adds vertical padding for the text */
+    font-size: 1rem; /* Adjust font size as needed */
+    font-weight: bold; /* Makes the text bold */
+    border-radius: 8px 8px 0 0; /* Rounds the top corners */
+}
+
+/* Photo */
+.photo-container img {
+    width: 100%; /* Full width of the container */
+    height: auto;
+    border-radius: 0 0 8px 8px; /* Rounds the bottom corners only */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Adds a shadow effect */
+}
