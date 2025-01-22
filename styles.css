@@ -447,11 +447,11 @@ form .textbox, .radios, .selectmenu, .commentbox, .button {
 }
 
 #timeofday span {
-    display: block; /* Stack the text elements */
+    display: inline-block; /* Stack the text elements */
 }
 
 #timeofday #clock {
     color: #125688; /* Highlight clock text in blue */
-    font-size: 1.5em; /* Larger font for the clock */
-    font-weight: bold; /* Bold font for emphasis */
+    font-size: 1.0em; /* Larger font for the clock */
+    font-weight: normal; /* Bold font for emphasis */
 }
