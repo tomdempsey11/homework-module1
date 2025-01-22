@@ -429,3 +429,29 @@ form .textbox, .radios, .selectmenu, .commentbox, .button {
     border-radius: 0 0 8px 8px; /* Rounds the bottom corners only */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Adds a shadow effect */
 }
+
+
+
+/* Home Section: Clock Styles */
+#timeofday {
+    font-family: Arial, Helvetica, sans-serif; /* Font */
+    color: #3a3a3a; /* Text color */
+    text-align: center; /* Center align text */
+    padding: 20px; /* Add some padding */
+    background: linear-gradient(0deg, #fbd78b 0%, #76d5f5 100%); /* Gradient background */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Optional shadow for a polished look */
+    margin: 0 auto; /* Ensure no margin around the section */
+    width: 100%;
+    max-width: 1414px;
+
+}
+
+#timeofday span {
+    display: block; /* Stack the text elements */
+}
+
+#timeofday #clock {
+    color: #125688; /* Highlight clock text in blue */
+    font-size: 1.5em; /* Larger font for the clock */
+    font-weight: bold; /* Bold font for emphasis */
+}
