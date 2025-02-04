@@ -349,7 +349,7 @@ form .button {
     display: flex; /* Enables flexible alignment */
     justify-content: flex-end; /* Aligns the button to the right */
     width: 50%; /* Ensures the container spans the form width */
-    margin-top: 20px; /* Optional: Add space above the button */
+    margin-top: 80px; /* Optional: Add space above the button */
 }
 
 /* Submit button style */
@@ -381,6 +381,42 @@ form label, input, textarea, select {
 form .textbox, .radios, .selectmenu, .commentbox, .button {
     margin-bottom: 20px;
 }
+
+/* Ensure the form is the positioned container */
+form {
+    position: relative;
+}
+
+/* Position .randomcode so its right edge aligns with the 50% mark of the form */
+.randomcode {
+    position: absolute;
+    bottom: 120px;      /* Adjust as needed */
+    left: 52%;         /* Start at the 50% mark of the form */
+    transform: translateX(-100%);  /* Shift it left so that its right edge is at left: 50% */
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+/* Optional styling for the random code elements */
+.randomcode input[type="text"] {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.randomcode #codes {
+    display: inline-block;    /* Makes the element behave like a box */
+    padding: 8px 12px;        /* Adds space inside the box */
+    border: 1px solid #4977D1;/* Gives the box a border with the same blue color */
+    border-radius: 4px;       /* Rounds the corners of the box */
+    background-color: #f9f9f9;/* Optional: light background color for contrast */
+    font-size: 16px;
+    font-weight: bold;
+    color: #4977D1;
+    margin: 0;
+}
+
 
 /*Cliff Photos - Cliff Page*/
 /* Centering Container */
