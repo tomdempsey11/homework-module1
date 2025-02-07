@@ -213,6 +213,15 @@
             background: #bde1ff;
         }
 
+        /*table selection*/
+        .selected {
+            background-color: #9ed034;  /* Change background to green */
+            color: white;             /* Change text color to white */
+            font-weight: bold;        /* Make the text bold */
+        }
+        
+        
+
 /* Contact Main */
 /* General styles for the main content */
 #contact main {
@@ -491,3 +500,5 @@ form {
     font-size: 1.0em; /* Larger font for the clock */
     font-weight: normal; /* Bold font for emphasis */
 }
+
+
